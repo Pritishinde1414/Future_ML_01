@@ -21,7 +21,7 @@ The project uses Python and data analysis/machine learning techniques to process
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Python**
 * **Pandas** – Data manipulation and analysis
