@@ -1,6 +1,6 @@
-# 📊 Future_ML_01 – Sales Forecasting
+# Future_ML_01 – Sales Forecasting
 
-## 📌 Project Overview
+## Project Overview
 
 This project is part of my **Machine Learning Internship at Future Interns**.
 
@@ -8,9 +8,8 @@ The objective of this project is to analyze historical sales data and build a **
 
 The project uses Python and data analysis/machine learning techniques to process historical sales data, identify important patterns, and generate future sales forecasts.
 
----
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze historical sales data.
 * Perform data preprocessing and cleaning.
@@ -34,7 +33,7 @@ The project uses Python and data analysis/machine learning techniques to process
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Future_ML_01/
@@ -45,7 +44,7 @@ Future_ML_01/
 └── README.md
 ```
 
-### 📄 Files Description
+### Files Description
 
 **`saleforce.py`**
 Contains the Python code used for data processing, analysis, and sales forecasting.
@@ -61,7 +60,7 @@ Project documentation and setup instructions.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The project uses historical sales information from a Superstore dataset.
 
@@ -81,7 +80,7 @@ This data is used to identify historical sales patterns and support future sales
 
 ---
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
 ### 1. Clone the repository
 
@@ -109,7 +108,7 @@ python saleforce.py
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 ```text
 Historical Sales Data
@@ -133,7 +132,7 @@ Visualization & Insights
 
 ---
 
-## 📈 Key Outcomes
+## Key Outcomes
 
 The project helps to:
 
@@ -145,6 +144,6 @@ The project helps to:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 The project can be further improved by:
